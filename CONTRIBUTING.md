@@ -1,0 +1,3 @@
+Detailed contribution documentation coming soon...
+
+Until then, check out our [wiki page on contributing](https://github.com/dbmi-bgm/cgap-issues/wiki/Contribution-Guide).
