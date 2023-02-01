@@ -1,5 +1,5 @@
 # cgap-issues
-A place to collect public (especially cross-repo) issues, questions, and public bug reports related to the CGAP (Clinical Genome Analysis Platform) project.
+A place to collect public (especially cross-repo) issues, questions, and public bug reports related to the CGAP (Computational Genome Analysis Platform) project.
 
 
 ------
